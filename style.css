@@ -40,7 +40,9 @@ body{
 .apresentacao__links
 {
     display:flex;
+    flex-direction:column;
     justify-content:space-between;
+    align-items:center;
 }
 .apresentacao__links__link
 {
